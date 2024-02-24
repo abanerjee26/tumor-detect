@@ -20,3 +20,17 @@ To install all dependencies, run:
 ```sh
 $ pip install -r requirements.txt
 ```
+
+## Paper
+
+https://ieeexplore.ieee.org/document/10397907
+
+Cite using:
+
+```
+A. Banerjee, K. Jaiswal, T. Biswas, V. Sharma, M. Bal and S. Mishra, "Brain Tumor Detection and Classification Using a Hyperparameter Tuned Convolutional Neural Network," 2023 6th International Conference on Contemporary Computing and Informatics (IC3I), Gautam Buddha Nagar, India, 2023, pp. 502-506, doi: 10.1109/IC3I59117.2023.10397907.
+
+Keywords: Convolution, MRI, Brain Cancer, Brain Modeling, CNNs, Tumors, RNNs, Brain Tumor Detection, Data Pre-Processing, Prediction
+```
+
+
